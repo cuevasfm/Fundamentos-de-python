@@ -187,4 +187,6 @@ if __name__ == "__main__":
     #imprimir desde el 5 al 10 de 2 en 2
     print(x[5:15:2])
     #imprimir desde el 5 al 10 de 2 en 2
-    print(x[5:10:3])
+    print(x[5:10:2])
+    #imprimir desde el 5 al 10 de 2 en 2
+    print(x[5:10:2])
