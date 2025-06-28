@@ -1,0 +1,9 @@
+Este es el contenido del archivo editado
+Nombres de frutas:
+Fresa
+Mango
+Pera
+Uva
+
+Nombres de motos:
+hondayamahasuzukikawasaki
