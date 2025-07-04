@@ -92,7 +92,7 @@ class FormularioApp:
     
     def __init__(self):
         self.raiz = Tk()
-        self.archivo_csv = './datos_formulario.csv'
+        self.archivo_csv = 'datos_formulario.csv'
         self.persona_actual = Persona()
         
         self.estados_mexico = [
