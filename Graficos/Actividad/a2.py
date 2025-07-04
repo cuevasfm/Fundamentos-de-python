@@ -1,0 +1,41 @@
+import turtle
+
+import turtle
+import time
+#Rectangulo
+turtle.left(22.5)
+turtle.forward(100)
+time.sleep(1)
+turtle.left(90)
+turtle.forward(100)
+time.sleep(1)
+turtle.left(90)
+turtle.forward(100)
+time.sleep(1)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(112.5)
+turtle.forward(100)
+time.sleep(1)
+turtle.left(90)
+turtle.forward(100)
+time.sleep(1)
+turtle.left(90)
+turtle.forward(100)
+time.sleep(1)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(112.5)
+turtle.forward(100)
+time.sleep(1)
+turtle.left(90)
+turtle.forward(100)
+time.sleep(1)
+turtle.left(90)
+turtle.forward(100)
+time.sleep(1)
+turtle.left(90)
+turtle.forward(100)
+
+
+time.sleep(20)
